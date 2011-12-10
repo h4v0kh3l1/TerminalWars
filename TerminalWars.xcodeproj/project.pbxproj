@@ -28,6 +28,8 @@
 /* Begin PBXFileReference section */
 		DBC2B57E1493EFB90022FD15 /* directory.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = directory.c; sourceTree = "<group>"; };
 		DBC2B5811493EFC50022FD15 /* directory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = directory.h; sourceTree = "<group>"; };
+		DBC2B5821493F7650022FD15 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		DBC2B5831493F8D20022FD15 /* ProgramHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgramHandler.h; sourceTree = "<group>"; };
 		DBD943F51493EB3300C48E9C /* TerminalWars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TerminalWars; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBD943F91493EB3300C48E9C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		DBD943FB1493EB3300C48E9C /* TerminalWars.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TerminalWars.1; sourceTree = "<group>"; };
@@ -67,6 +69,8 @@
 				DBD943FB1493EB3300C48E9C /* TerminalWars.1 */,
 				DBC2B57E1493EFB90022FD15 /* directory.c */,
 				DBC2B5811493EFC50022FD15 /* directory.h */,
+				DBC2B5821493F7650022FD15 /* README.txt */,
+				DBC2B5831493F8D20022FD15 /* ProgramHandler.h */,
 			);
 			path = TerminalWars;
 			sourceTree = "<group>";

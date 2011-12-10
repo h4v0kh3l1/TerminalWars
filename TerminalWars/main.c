@@ -14,12 +14,20 @@
 int main (int argc, const char * argv[])
 {
 
-	// insert code here...
+	
 	char* inputString = (char*) calloc(sizeof(char), 256);
-	do {
+	while (true){
+		printf(">");
 		gets(inputString);
+		
+		// Needs to hash input string into int input, for easier comparison.
+		if (strcmp(inputString, "exit") == 0) {
+			printf("Do you want to take the blue pill? (y,n)\n");
+			gets(inputString);
+			if (strcmp(inputString, "y") == 0) {break;}
+		}
 		printf("%s\n", inputString);
-	} while (strcmp(inputString, "exit") != 0);
+	}
 	printf("Program terminated.\n");
     return 0;
 }

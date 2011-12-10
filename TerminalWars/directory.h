@@ -15,7 +15,9 @@ struct folder {
 	void**;
 };
 
-void cd(char* input)
+void cd(char* target);
 void ls();
 void pwd();
+void touch(char* target);
+void rm(char* target);
 #endif
