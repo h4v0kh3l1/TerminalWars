@@ -3,6 +3,8 @@ Terminal Wars
 By h4v0kh3l1 (hawang@andrew.cmu.edu)
 
 Goal 1: Terminal-inteface game.
+Needs save, load state handler.
+
 Needs a small computer interface.
 Needs a directory system
 

@@ -6,6 +6,9 @@
 //  Copyright (c) 2011 Carnegie Mellon. All rights reserved.
 //
 
+/** ProgramHandler handles execution of library and custom programs. 
+ */
+
 #ifndef TerminalWars_ProgramHandler_h
 #define TerminalWars_ProgramHandler_h
 
